@@ -1,2 +1,2 @@
 # Campus-Management-System
-Java console app for managing student records — OOP, collections, file handling
+Java console app for managing student records using OOP, collections, file handling
